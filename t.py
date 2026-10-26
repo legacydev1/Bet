@@ -23,7 +23,7 @@ from telegram.ext import (
 # ============== CONFIG ==============
 TELEGRAM_TOKEN = os.getenv(
     "TELEGRAM_TOKEN",
-    "8924966752:AAHASJW1QsBe9Q1rLtCdDcZm800wTueNV-o",
+    "8802264885:AAEUs7I4FMxbPUir-M7yBCFtiNxjbBS6at4",
 )
 ADMIN_IDS = [7941824028]
 
@@ -34,7 +34,7 @@ SUPABASE_ANON_KEY = (
     "wmATgtTyjHIPUAf15jsPC5jQW0IUPPrr-1L5bo-dKUA"
 )
 SITE_NAME = "ScoreX"
-SITE_URL = "https://sh.appmedo.com"
+SITE_URL = "https://app-fchbdfn9a8sh.appmedo.com/"
 PORT = int(os.getenv("PORT", "10000"))
 # ====================================
 
